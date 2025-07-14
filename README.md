@@ -101,6 +101,6 @@ To use in Colab:
 
 ## 🧑‍💻 Author
 
-Developed by **[Your Name Here]**, focused on building AI-first architectures for cognitive interfaces.
+Developed by **Pedro Miguel Gomes Guerrero**, focused on building AI-first architectures for cognitive interfaces.
 
 > Designed not to look like an app, but like a brain.
